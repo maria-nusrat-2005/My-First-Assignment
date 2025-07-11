@@ -172,9 +172,11 @@ section h2 {
 }
 .card-section {
    
-    border: none;
-    margin: 20px 340px;
-    padding: 10px 1px;
+     border: none;
+     width: 1200px;
+     margin: 20px auto;
+    /* margin: 20px 340px;
+    padding: 10px 1px; */ 
     
 }
 .card-container {
@@ -225,7 +227,8 @@ section h2 {
 }
 .border  {
     border: none;
-    margin: 137px 320px;
+    margin: 137px auto;
+    width: 1200px;
     background-color: #F8F2FF;
     padding: 30px 20px;
     border-radius: 20px;
@@ -242,7 +245,12 @@ section h2 {
 }
 .image-sec2 {
     border-radius: 80px;
-    margin: 20px 140px;
+    margin: 20px auto;
+    width: 100%;
+}
+.image-container {
+    width: 900px;
+    margin: 0 auto;
 }
 .class-border {
     
