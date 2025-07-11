@@ -144,7 +144,7 @@ nav {
     
 }
 .image-sec {
-background-color:#E6E6FA	 ;
+background-color:#F8F2FF	 ;
     margin: 104px 180px;
     border-radius: 30px;
     padding-top: 20px;
@@ -183,7 +183,7 @@ section h2 {
 }
 .card {
     border: none;
-    background-color: antiquewhite;
+    background-color: #E6E6FA;
     width: 350px;
     border-radius: 5px;
     padding: 20px 40px;
@@ -213,7 +213,7 @@ section h2 {
 }
 .border-center {
     text-align: center;
-    border: 10px solid brown;
+    border: none;
     margin: auto 300px;
 }
 .text-prime {
@@ -225,7 +225,7 @@ section h2 {
 .border  {
     border: none;
     margin: 137px 320px;
-    background-color: #FAF9F6;
+    background-color: #F8F2FF;
     padding: 30px 20px;
     border-radius: 20px;
    
@@ -242,6 +242,91 @@ section h2 {
 .image-sec2 {
     border-radius: 80px;
     margin: 20px 140px;
+}
+.class-border {
+    
+    margin: 20px 200px;
+    border-radius: 5px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8F2FF;
+    
+}
+.touch-class  {
+    border: none;
+    margin: 200px 0;
+    padding: 5px 5px;
+    text-align: left;
+    font-size: 80px;
+    width: 550px;
+}
+.h1 {
+   
+  font-size: 70px;
+  font-weight: bold;
+  text-align: left;
+  
+
+}
+.form-section {
+    border: none;
+    
+    font-size: 20px;
+    
+    width: 550px;
+    
+    
+}
+input {
+    font-size: 20px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    border: none;
+    width: 90%;
+
+
+}
+ div input[type="email"] {
+    margin-bottom: 13px;
+ }
+ div input[type="text"] {
+    margin-bottom: 13px;
+ }
+ textarea {
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-right: 20px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+ }
+ .button {
+    width: 90%;
+    margin: 0;
+    margin-top: 10px;
+ }
+.logo {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 70px;
+    color: #4E47FF;
+
+}
+.footer-class {
+    text-align: center;
+}
+div ul  {
+    font-size: 20px;
+    gap: 20px;
+    text-align: center;
+    
+    display: flex;
+    list-style: none;
+    margin: 20px 700px;
+    width: 400px;
 }
 
 
