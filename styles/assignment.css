@@ -334,8 +334,14 @@ div ul  {
     
     display: flex;
     list-style: none;
-    margin: 20px 700px;
+    margin: 20px auto;
     width: 400px;
+}
+.footer-container {
+    width: 550px;
+    border: none;
+    margin: 20px auto 100px;
+    
 }
 
 
