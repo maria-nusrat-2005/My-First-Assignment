@@ -93,7 +93,7 @@ nav {
     display: flex;
     
     justify-content: space-between;
-    margin: 141px 160px;
+    margin: 141px auto;
     width: 1200px;
     font-size: 20px;
     text-align: left;
