@@ -149,3 +149,99 @@ background-color:#E6E6FA	 ;
     border-radius: 30px;
     padding-top: 20px;
 }
+.text-title {
+    text-align: center;
+    font-size: 40px;
+    margin-top:130px ;
+    margin-bottom: 110px;
+}
+
+section h2 {
+    text-align: center;  
+    
+}
+.section-title {
+    border: none;
+    padding: 50px 10px;
+    font-size: 40px;
+    margin: 20px 180px;
+    box-shadow: 2px solid gray;
+    
+
+}
+.card-section {
+   
+    border: none;
+    margin: 20px 340px;
+    padding: 10px 1px;
+    
+}
+.card-container {
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    border: none;
+    background-color: antiquewhite;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px 40px;
+    
+      
+}
+.img-size {
+    border-radius: 500px;
+    
+}
+.title-description {
+   gap: 10px;
+}
+.description {
+     display: flex;
+     justify-content: auto;
+
+}
+.sub-class {
+    margin-top: 30px;
+}
+.card-style {
+    margin-bottom: 15px;
+}
+.card-title {
+    margin-top: 15px;
+}
+.border-center {
+    text-align: center;
+    border: 10px solid brown;
+    margin: auto 300px;
+}
+.text-prime {
+    margin: 20px 20px;
+    padding: 2px 20px;
+    text-align: center;
+   
+}
+.border  {
+    border: none;
+    margin: 137px 320px;
+    background-color: #FAF9F6;
+    padding: 30px 20px;
+    border-radius: 20px;
+   
+}
+.section-title2 {
+    padding: 5px 20px;
+    font-size: 40px;
+    
+}
+.btn {
+    margin: 3px 450px;
+    margin-bottom: 20px;
+}
+.image-sec2 {
+    border-radius: 80px;
+    margin: 20px 140px;
+}
+
+
